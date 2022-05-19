@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br/>
 
 <h3 align="center">🌱Tech Stack🌱</h3>
 
@@ -29,6 +30,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/JavaScript-fff7d2?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
+<br/>
 
 <h3 align="center">🔭I've used🔭</h3>
 <p align="center">
