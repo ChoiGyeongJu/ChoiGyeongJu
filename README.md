@@ -1,44 +1,24 @@
-<div align = "center"><h1> Hi there 👋</h1></div>
+### <h2>👋 반갑습니다!</h2>
 
-<!--
-**ChoiGyeongJu/ChoiGyeongJu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="mailto:rudwn5142@naver.com" target="_blank"><img src="https://img.shields.io/badge/rudwn5142@naver.com-aaaaa?style=flat-square&logo=Naver&logoColor=white"/></a>[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8)](https://fate-chartreuse-2a7.notion.site/4f495e9c4b604673bd193f87b159f05f)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+풀스택 개발자😎로 근무한 경험이 있으며, <br>
+프론트와 백엔드 모두 관심있는 주니어 개발자💻입니다❗
 
-<br/>
+<br>
 
-<h3 align="center">🌱Tech Stack🌱</h3>
+<h3>🌱Tech Stack🌱</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-fff7d2?style=flat-square&logo=html5&logoColor=black"/>
-  <img src="https://img.shields.io/badge/css3-fff7d2?style=flat-square&logo=css3&logoColor=black"/>
-  <img src="https://img.shields.io/badge/mysql-fff7d2?style=flat-square&logo=mysql&logoColor=black"/>
-   <img src="https://img.shields.io/badge/c-fff7d2?style=flat-square&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/python-fff7d2?style=flat-square&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/django-fff7d2?style=flat-square&logo=django&logoColor=black"/>
-<img src="https://img.shields.io/badge/react-fff7d2?style=flat-square&logo=react&logoColor=black"/>
- <img src="https://img.shields.io/badge/JavaScript-fff7d2?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
+<img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=javascript"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=react"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=python"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=django&logoColor=black"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=html5"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=css3&logoColor=0000FF"/><img height="40" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=mysql"/>
 
-<br/>
 
-<h3 align="center">🔭I've used🔭</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/slack-fff7d2?style=flat-square&logo=slack&logoColor=black"/>
-  <img src="https://img.shields.io/badge/notion-fff7d2?style=flat-square&logo=notion&logoColor=black"/>
-  <img src="https://img.shields.io/badge/git-fff7d2?style=flat-square&logo=git&logoColor=black"/>
-  <img src="https://img.shields.io/badge/github-fff7d2?style=flat-square&logo=github&logoColor=black"/>
-  <img src="https://img.shields.io/badge/postman-fff7d2?style=flat-square&logo=postman&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Amazon S3-fff7d2?style=flat-square&logo=Amazon S3&logoColor=black"/>
-</p>
+<br>
+
+<h3>🔭I've used🔭</h3>
+
+<img height="30" src="https://user-images.githubusercontent.com/97934158/203979149-70e0b4e1-bdf2-44b9-8994-264af1804da9.png"/>&nbsp;&nbsp;&nbsp;<img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=notion&logoColor=black"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=git"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=github&logoColor=black"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=postman"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=Amazon S3"/>
+
+
 
