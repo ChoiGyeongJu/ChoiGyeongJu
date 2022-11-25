@@ -11,14 +11,14 @@
 
 <h3>🌱Tech Stack🌱</h3>
 
-<img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=javascript"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=react"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=python"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=django&logoColor=black"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=html5"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=css3&logoColor=0000FF"/><img height="40" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=mysql"/>
+<img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=javascript"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=react"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=python"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=django&logoColor=black"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=html5"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=css3&logoColor=0000FF"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=mysql"/>
 
 
 <br>
 
 <h3>🔭I've used🔭</h3>
 
-<img height="30" src="https://user-images.githubusercontent.com/97934158/203979149-70e0b4e1-bdf2-44b9-8994-264af1804da9.png"/>&nbsp;&nbsp;&nbsp;<img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=notion&logoColor=black"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=git"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=github&logoColor=black"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=postman"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=Amazon S3"/>
+<img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=slack&logoColor=4A154B"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=notion&logoColor=black"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=git"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=github&logoColor=black"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=postman"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=Amazon S3"/>
 
 
 </div>
