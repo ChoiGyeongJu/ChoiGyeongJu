@@ -19,6 +19,8 @@
 <h3>🔭I've used🔭</h3>
 
 <img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=slack&logoColor=4A154B"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=notion&logoColor=black"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=git"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=github&logoColor=black"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=postman"/><img height="35" src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=Amazon S3"/>
+  <br><br>
 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoiGyeongJu&count_bg=%23A5ACD7&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)](https://github.com/ChoiGyeongJu)
 
 </div>
