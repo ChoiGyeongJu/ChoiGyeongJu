@@ -1,6 +1,6 @@
 # 👋 Hello, I'm GyeongJu Choi!
 
-I'm a passionate frontend developer with a strong focus on React and modern web technologies. I enjoy creating beautiful and responsive web applications, and I'm always eager to learn new technologies to improve my skills.
+I'm a passionate **frontend developer** with a strong focus on **React** and modern web technologies. I enjoy creating beautiful and responsive web applications, and I'm always eager to learn new technologies to improve my skills.
 
 <br>
 
@@ -52,8 +52,8 @@ I'm a passionate frontend developer with a strong focus on React and modern web 
 
 ## 📜 Certifications
 
-- [정보처리기사] (한국산업인력공단 | 2023.06.09)
-- [SQLD] (한국데이터산업진흥원 | 2022.09.30)
+- **[정보처리기사]** (한국산업인력공단 | 2023.06.09)
+- **[SQLD]** (한국데이터산업진흥원 | 2022.09.30)
 
 <br>
 
