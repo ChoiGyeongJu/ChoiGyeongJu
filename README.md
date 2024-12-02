@@ -53,6 +53,7 @@ I'm a passionate **frontend developer** with a strong focus on **React** and mod
 
 ## 📜 Certifications
 
+- **[PCCP LV4]** ((주)그렙 | 2024.11.23)
 - **[정보처리기사]** (한국산업인력공단 | 2023.06.09)
 - **[SQLD]** (한국데이터산업진흥원 | 2022.09.30)
 
